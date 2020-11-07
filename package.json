@@ -23,7 +23,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/EOSIO/eosjs.git"
+    "url": "https://github.com/zealousWang/eosjs.git"
   },
   "dependencies": {
     "elliptic": "6.5.3",
